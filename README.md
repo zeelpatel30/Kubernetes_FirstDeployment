@@ -2,7 +2,7 @@
 
 1)Create Nginx yaml file 
 
-2) Vi Ngxin.yaml
+2)Vi Ngxin.yaml
 
 3)Check if deployment is created or not using following command
      
