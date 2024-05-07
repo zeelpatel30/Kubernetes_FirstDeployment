@@ -1,10 +1,10 @@
 **Create your first deployment with ngxin**
 
-Create Nginx yaml file 
+1)Create Nginx yaml file 
 
-vi Ngxin.yaml
+2)vi Ngxin.yaml
 
-check if deployment is created or not using following command
+3)check if deployment is created or not using following command
      
      --> kubectl get deployment
      
